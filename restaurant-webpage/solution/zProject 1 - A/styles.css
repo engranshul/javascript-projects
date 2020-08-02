@@ -1,0 +1,24 @@
+header {
+    background-color: blue;
+    width: 1024px;
+    height: 118px;
+}
+
+nav {
+    background-color: red;
+    width: 1024px;
+    height: 40px;
+}
+
+section {
+    background-color: orange;
+    width: 1024px;
+    height: 400px;
+}
+
+footer {
+    background-color: green;
+    width: 1024px;
+    height: 100px;
+}
+
